@@ -18,6 +18,11 @@ a:hover {
   cursor: pointer;
 }
 
+address.email {
+  color: black;
+  font-size: 18px;
+}
+
 #bloc-8 {
   border-top: 3px solid #fff;
 }
@@ -789,7 +794,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  background-color: #F4834E;
 }
 
 .tc-white {
@@ -797,12 +802,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  background: #F4834E;
+  border: 1px solid #C0450C;
   color: #ffffff !important;
 }
 
 .btn-atomic-tangerine:hover {
-  background: #ebb9a1 !important;
   color: #000 !important;
 }
 
@@ -815,11 +820,14 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-  color: #f3976c !important;
+  color: #F4834E !important;
+  background: #364577;
+  padding: 10px;
+  border-radius: 10px;
 }
 
 .ltc-atomic-tangerine:hover {
-  color: #c27956 !important;
+  background: #364577;
 }
 
 .icon-dark-slate-blue {
