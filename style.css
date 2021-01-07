@@ -716,7 +716,9 @@ p {
 
 .social {
   max-width: 400px;
+  display:inline;
   margin: auto auto auto auto;
+  color: #fff !important;
 }
 
 h2 {
@@ -820,7 +822,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-  color: #F4834E !important;
+  color: #fff !important;
   background: #364577;
   padding: 10px;
   border-radius: 10px;
